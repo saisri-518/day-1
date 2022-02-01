@@ -10,14 +10,19 @@ namespace Sum
     {
         static void Main(string[] args)
         {
-            int n1=int.Parse(Console.ReadLine());
+            int i,j;
+            int r=int.Parse(Console.ReadLine());
             int sum = 0;
-            for(int i=1;i<=n1;i++)
+            for(int i=1;i<=r;i++)
             {
-                sum += i;
+                for(int j=1;j<=i;j++){
+                    Console.Write("*");
+                    Console.WriteLine("/n");
+
+                }
+                Console.ReadLine();
             }
-            Console.WriteLine(sum);
-            Console.ReadLine();
+            
         }
     }
 }
