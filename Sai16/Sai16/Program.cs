@@ -8,7 +8,7 @@ namespace Sai16
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             string str;
             int alphabet, digit, specialchar, i, l;
