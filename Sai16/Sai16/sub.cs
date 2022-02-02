@@ -8,7 +8,7 @@ namespace Sai16
 {
     class Sub
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             string str = Console.ReadLine();
             string user = Console.ReadLine();
