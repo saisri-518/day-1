@@ -24,7 +24,7 @@ namespace three
     class Pg4
     {
 
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             DummyB B = new DummyB();
             B.show();//B
