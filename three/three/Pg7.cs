@@ -8,7 +8,7 @@ namespace three
 {
     class Pg7
     {
-        static void Main(string[] args)
+        static void Main7(string[] args)
         {
             Laptop lp = new Laptop();
             Console.ReadLine();
