@@ -6,11 +6,11 @@ namespace three
 {
     static class Pg9
     {
-        static void Main(string[] args)
+        static void Main9(string[] args)
         {
             SmallApartment apartment = new SmallApartment();
-            Person person = new Person("Mahesh");
-            apartment.door = new House.Door("brown");
+            Person person = new Person("Saisri");
+            apartment.door = new House.Door("burgundy");
             person.house = apartment;
             person.ShowData();
         }

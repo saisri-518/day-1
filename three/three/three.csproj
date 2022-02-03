@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pg10.cs" />
     <Compile Include="Pg2.cs" />
     <Compile Include="Pg3.cs" />
     <Compile Include="Pg4.cs" />
