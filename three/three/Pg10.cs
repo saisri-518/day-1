@@ -35,7 +35,7 @@ namespace three
     class Pg10
     {
 
-        public static void Main()
+        public static void Main10()
         {
             Z z = new Z();
             z.method1();
