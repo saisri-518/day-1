@@ -2,7 +2,7 @@
 
 public class Program
 {
-    public static void Main()
+    public static void Main1()
     {
         Person myPerson = new Person();
         myPerson.Greet();
@@ -55,7 +55,6 @@ public class Teacher : Person
     public void Explain()
     {
         Console.WriteLine("I'm explaining");
-        Console.ReadLine();
         Console.ReadLine();
     }
 }
