@@ -48,6 +48,7 @@
     <Compile Include="Pg4.cs" />
     <Compile Include="Pg5.cs" />
     <Compile Include="Pg6.cs" />
+    <Compile Include="Pg7.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

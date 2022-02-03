@@ -2,7 +2,7 @@
 
 public class Pg6
 {
-    public static void Main(string[] args)
+    public static void Main3(string[] args)
     {
         Car car = new Car(0);
 
