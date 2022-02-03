@@ -2,7 +2,7 @@
 
 public class Pg3
 {
-    public static void Main(string[] args)
+    public static void Main4(string[] args)
     {
         int total = 3;
         Person[] persons = new Person[total];

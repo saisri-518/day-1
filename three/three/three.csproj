@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Pg2.cs" />
     <Compile Include="Pg3.cs" />
+    <Compile Include="Pg4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
