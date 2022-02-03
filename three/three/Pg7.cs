@@ -14,7 +14,7 @@ namespace three
             Console.ReadLine();
 
 
-            lp.ShowDetails(Laptop.Lenove, Laptop.Price1000, Laptop.i3, Laptop.Ram2GB, Laptop.HD500GB);
+            lp.ShowDetails(Laptop.Lenovo, Laptop.Price1000, Laptop.i3, Laptop.Ram2GB, Laptop.HD500GB);
             Console.WriteLine("\n\n*************************************\n");
             Console.ReadLine();
 
@@ -64,7 +64,7 @@ namespace three
         public const string Price1500 = "$1500";
         public const string Price2000 = "$2000";
 
-        public const string Lenove = "Lenovo";
+        public const string Lenovo = "Lenovo";
         public const string Sony = "Sony";
         public const string Dell = "Dell";
     }
