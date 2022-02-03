@@ -42,7 +42,7 @@ namespace three
     class Pg8
     {
 
-        static void Main(string[] args)
+        static void Main8(string[] args)
         {
 
             Square square = new Square(5, 5, 10);
