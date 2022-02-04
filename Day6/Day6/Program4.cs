@@ -27,7 +27,7 @@ namespace Day6
 
     class Program4
     {
-        public static void Main()
+        public static void Main4()
         {
             IndexerCreation ic = new IndexerCreation();
             ic[0] = "JAVA";
