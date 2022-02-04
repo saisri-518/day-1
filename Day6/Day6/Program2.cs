@@ -40,7 +40,7 @@ namespace Day6
 
     class Program2
     {
-        public static void Main()
+        public static void Main2()
         {
             Console.WriteLine("Value of Monday is " + WeekDays.Monday);
             Console.WriteLine("Value of Monday is " + (int)WeekDays.Monday);
