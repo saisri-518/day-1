@@ -25,7 +25,7 @@ namespace Day6
     }
     class Program3
     {
-        public static void Main()
+        public static void Main3()
         {
             Student objStudent = new Student();
             objStudent.Name = "Value";
