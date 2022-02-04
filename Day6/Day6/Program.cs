@@ -14,7 +14,7 @@ namespace Day6
     }
     class Program
     {
-        public static void Main()
+        public static void Main1()
         {
             Person person;
             person.Name = "saisri";
