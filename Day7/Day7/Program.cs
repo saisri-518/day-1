@@ -37,7 +37,7 @@ namespace Day7
             public int Age { get; set; }
             public string Address { get; set; }
         }
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
 
             sample<string> name = new sample<string>();
