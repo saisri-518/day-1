@@ -8,7 +8,7 @@ class Program
         public int YearOfProduction;
     }
 
-    static void Main(string[] args)
+    static void Main1(string[] args)
     {
         int total = 3;
         Car[] cars = new Car[total];
