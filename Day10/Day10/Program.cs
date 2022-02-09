@@ -8,7 +8,7 @@ namespace Day10
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("Grade Book Dictionary : ");
             Dictionary<string, string> IN = new Dictionary<string, string>();
