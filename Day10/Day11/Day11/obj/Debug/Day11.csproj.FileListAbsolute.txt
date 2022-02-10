@@ -1,0 +1,7 @@
+C:\Users\Mahesh PC\source\repos\Day11\Day11\bin\Debug\Day11.exe.config
+C:\Users\Mahesh PC\source\repos\Day11\Day11\bin\Debug\Day11.exe
+C:\Users\Mahesh PC\source\repos\Day11\Day11\bin\Debug\Day11.pdb
+C:\Users\Mahesh PC\source\repos\Day11\Day11\obj\Debug\Day11.csproj.AssemblyReference.cache
+C:\Users\Mahesh PC\source\repos\Day11\Day11\obj\Debug\Day11.csproj.CoreCompileInputs.cache
+C:\Users\Mahesh PC\source\repos\Day11\Day11\obj\Debug\Day11.exe
+C:\Users\Mahesh PC\source\repos\Day11\Day11\obj\Debug\Day11.pdb
